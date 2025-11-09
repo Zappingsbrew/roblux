@@ -1,8 +1,8 @@
 ![NVIDIA_Share_tWNAYDvIcT](https://user-images.githubusercontent.com/93496808/197343984-d9e8deb2-d3c9-4d4b-9ee9-f39243126ab5.png)
 
-# Robux
+# Roblux
 
-Robik but it work
+roblux but it work
 
 # Features
 
@@ -11,21 +11,15 @@ Robik but it work
 - The weather works
 - Right click to center any skin
 
-You might also want to check out [Mondtholomew](https://github.com/reisir/mondtholomew), it's "Mond but it work"!
+You might also want to check out [Mondtholomewtholomew](https://github.com/Zappingsbrew/mondtholomewtholomew), it's "Mondtholomewc but it work"!
 
 # Usage
 
-Download and install the newest .rmskin package from [releases](https://github.com/reisir/robux/releases)
+Download and install the newest .rmskin package from [releases](https://github.com/Zappingsbrew/roblux/releases)
 
-Can also be installed using [Meters on Demand](https://github.com/meters-on-demand/cli)
+Roblux uses [WebNowPlaying](https://wnp.keifufu.dev/) by default. This lets the player skin read information from your browser with a [browser extension](https://wnp.keifufu.dev/extension/getting-started).
 
-```sh
-mond install reisir/robux
-```
-
-Robux uses [WebNowPlaying](https://wnp.keifufu.dev/) by default. This lets the player skin read information from your browser with a [browser extension](https://wnp.keifufu.dev/extension/getting-started).
-
-Right click any of the skins to center them or to open the settings file. When you edit the settings remember to save the file and then `right click > refresh robux` to see changes.
+Right click any of the skins to center them or to open the settings file. When you edit the settings remember to save the file and then `right click > refresh roblux` to see changes.
 
 # The "MeasureNetworkInDelay" incident.
 
@@ -54,5 +48,6 @@ Formula=MeasureNetworkInText
 # Credits
 
 - Original [Robik](https://www.deviantart.com/apexxx-sensei/art/Robik-771914763) by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei)
+- Reisir's fork [Robux](https://github.com/reisir/robux) by [Reisir](https://github.com/reisir)
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Montserrat Monospace font edit by silver on the Rainmeter discord
