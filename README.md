@@ -2,7 +2,7 @@
 
 # Roblux
 
-roblux but it work
+Robux but it work
 
 # Features
 
