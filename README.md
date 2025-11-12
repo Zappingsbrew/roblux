@@ -11,11 +11,11 @@ Robux but it work
 - The weather works
 - Right click to center any skin
 
-You might also want to check out [Mondtholomewtholomew](https://github.com/Zappingsbrew/mondtholomewtholomew), it's "Mondtholomew but it work"!
+You might also want to check out [Mondtholomewtholomew](https://github.com/zappingsbrew/mondtholomewtholomew), it's "Mondtholomew but it work"!
 
 # Usage
 
-Download and install the newest .rmskin package from [releases](https://github.com/Zappingsbrew/roblux/releases)
+Download and install the newest .rmskin package from [releases](https://github.com/zappingsbrew/roblux/releases)
 
 Roblux uses [WebNowPlaying](https://wnp.keifufu.dev/) by default. This lets the player skin read information from your browser with a [browser extension](https://wnp.keifufu.dev/extension/getting-started).
 
@@ -23,7 +23,7 @@ Right click any of the skins to center them or to open the settings file. When y
 
 # The "MeasureNetworkInDelay" incident.
 
-Found in the original code. If anyone can tell me why this exists in the original skin it would be much appreaciated.
+Found in the original code. If anyone can tell me why this exists in the original skin it would be much appreciated!
 
 ```ini
 ; Download.ini
